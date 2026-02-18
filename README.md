@@ -64,6 +64,8 @@ Generates an email using AI.
 }
 
 --------------------------------------------------
+<img width="1383" height="757" alt="Screenshot 2026-02-18 001654" src="https://github.com/user-attachments/assets/3800d203-7907-4f83-a9ed-ee37b65ee241" />
+
 
 ## 🧠 AI Prompt Design
 
