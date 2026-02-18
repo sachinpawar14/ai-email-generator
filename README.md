@@ -112,7 +112,7 @@ The AI API URL is configured inside the service layer.
 1. Clone repository  
 git clone https://github.com/sachinpawar14/ai-email-generator.git  
 
-2. Open in Eclipse or IntelliJ  
+2. Open in Eclipse  
 
 3. Add API key in application.properties  
 
