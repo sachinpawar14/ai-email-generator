@@ -98,6 +98,8 @@ Add your AI API key in:
 src/main/resources/application.properties
 ai.api.key=YOUR_API_KEY
 Example (Gemini):
+
+The AI API URL is configured inside the service layer.
 ai.api.url=https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent
 ai.api.key=YOUR_KEY
 
